@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Swarangi👋</h1>
-- 🔭 I’m currently working on MERN Stack
+- 🔭 I’m currently working on React
 
-- 🌱 I’m currently learning React, Java
+- 🌱 I’m currently learning MERN Stack
 
 - 💬 Ask me about basics of frontend development
 
