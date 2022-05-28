@@ -1,9 +1,9 @@
 <h1 align="center">Hello there, I'm Swarangi👋</h1>
-- 🔭 I’m currently working on React
+- 🔭 I’m currently working on React JS
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning backend development
 
-- 💬 Ask me about basics of frontend development
+- 💬 Ask me about frontend development
 
 - 📫 How to reach me swarangimp05@gmail.com
 
