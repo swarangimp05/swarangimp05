@@ -2,13 +2,13 @@
 
 - 🧡 I love designing websites.
 
-- 🌱 I’m currently working on backend development
+- 🌱 I’m currently working on backend development.
 
-- 💬 Ask me about frontend development
+- 💬 Ask me about frontend development.
 
 - 📫 How to reach me swarangimp05@gmail.com
 
-- ⚡ Fun fact I love drawing and singing
+- ⚡ Fun fact I love drawing and singing.
 
 - 😄 Pronouns: She/Her
 
