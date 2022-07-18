@@ -1,7 +1,8 @@
 <h1 align="center">Hello there, I'm Swarangi👋</h1>
-- 🔭 I’m currently working on React JS
 
-- 🌱 I’m currently learning backend development
+- 🧡 Love designing websites.
+
+- 🌱 I’m currently working on backend development
 
 - 💬 Ask me about frontend development
 
