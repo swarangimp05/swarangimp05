@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Swarangi👋</h1>
 
-- 🧡 Love designing websites.
+- 🧡 I love designing websites.
 
 - 🌱 I’m currently working on backend development
 
