@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Swarangi👋</h1>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=swarangimp05&label=Profile%20views&color=0e75b6&style=flat" alt="swarangimp05" /> </p>
 
 - 🧡 I love designing websites.
 
