@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, I'm Swarangi👋</h1>
 
-![image title](https://rushter.com/counter.svg)
+
 
 - 🧡 I love designing websites.
 
